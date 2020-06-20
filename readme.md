@@ -35,6 +35,18 @@ var rawyt = require('rawytjs'),
 })();
 ```
 
+Example result:
+
+```
+{
+  '360p': 'https://.........googlevideo.com/........................',
+  '240pna': 'https://..........googlevideo.com/.............................',
+  '240pna_webm': 'https://......googlevideo.com/.............................'
+}
+```
+
+
+
 ### iTag Reference
 
 Use the value from the key:value pairing below to refer to your preferred format. 
