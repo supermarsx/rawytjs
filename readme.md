@@ -37,7 +37,7 @@ var rawyt = require('rawytjs'),
 
 Example result:
 
-```
+```javascript
 {
   '360p': 'https://.........googlevideo.com/........................',
   '240pna': 'https://..........googlevideo.com/.............................',
