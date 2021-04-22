@@ -1,6 +1,6 @@
 # rawytJS
 
-This node module allows you to get yt raw sources with javascript.
+This node module allows you to get youtube raw sources with javascript.
 
 ## Quick Start
 
