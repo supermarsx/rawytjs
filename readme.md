@@ -1,5 +1,7 @@
 # rawytJS
 
+``` Descontinued. Youtube API changed, i don't think it works anymore ```
+
 This node module allows you to get youtube raw sources with javascript.
 
 ## Quick Start
